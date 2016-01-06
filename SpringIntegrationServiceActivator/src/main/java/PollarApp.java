@@ -1,5 +1,6 @@
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+
 public class PollarApp {
 	 
 	@SuppressWarnings("resource")
